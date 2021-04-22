@@ -1,3 +1,4 @@
+'use strict' // MODO ESTRICTO
 //VARIBLE: Es un contenedor de informacion
 
 var pais = "Perú";
